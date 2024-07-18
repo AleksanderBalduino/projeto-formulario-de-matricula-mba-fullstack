@@ -11,7 +11,7 @@ main {
 
     & .main-container {
         max-width: 33rem;
-        margin-left: auto;
+        margin: auto;
     }
 
     & .back {
@@ -33,7 +33,7 @@ aside {
 
     & .aside-container {
         max-width: 33rem;
-        margin-right: auto;
+        margin: auto;
 
         & > img {
             margin-top: 2rem;
